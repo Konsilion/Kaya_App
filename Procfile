@@ -1,0 +1,1 @@
+web: voila --port=$PORT --no-browser --enable_nbextensions=True --template=flex --VoilaConfiguration.file_whitelist="['.*']" kaya.ipynb
